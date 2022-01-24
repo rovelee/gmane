@@ -17,6 +17,6 @@ Test Data from Dr. Chuck's website:
 1. Data server link:
 http://mbox.dr-chuck.net/
 2. Data download link:
-https://www.py4e.com/data_space/content.sqlite.zip (600Mb)
+https://www.py4e.com/data_space/content.sqlite.zip
 
 Thanks Dr. Chuck's [python for everybody](https://www.py4e.com).
